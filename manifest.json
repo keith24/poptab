@@ -1,6 +1,6 @@
 {
 	"name": "PopTab",
-	"description": "This extension lets you pop the current tab into a popup.",
+	"description": "Pop the current tab into a popup or panel.",
 	"version": "1.0",
 	"manifest_version": 2,
 	"background": {
@@ -8,8 +8,12 @@
 		"scripts": ["poptab.js"]
 	},
 	"browser_action": {
-		"default_title": "PopTab",
-		"default_icon": "icon.png"
+		"default_title": "Pop tab",
+		"default_icon": "tab.24.png"
+	},
+	"icons": {
+		"24": "tab.24.png",
+		"246": "tab.png"
 	},
 	"permissions": ["activeTab","tabs"]
 }
