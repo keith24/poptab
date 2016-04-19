@@ -1,9 +1,9 @@
-# poptab
+# PopTab
+
 A chrome extension which pops tabs into popups
 
-To install poptab:
--Download all the files into a directory called `poptab`.  
--Open Settings | Extensions in Chrome
--Drag the folder into your chrome window.  
+Just click the button to pop your tab into a popup
 
-Quick and dirty, but works.  Click the `HELLO` button to pop a tab into a new popup.  Sorry, there's no way to bring it back.  
+[Blog post](https://keithirwin.us/blog/2016/04/poptab)
+[Github](https://github.com/keith24/poptab/)
+[Chrome Web Store]() (to install)

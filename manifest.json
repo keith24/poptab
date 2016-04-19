@@ -14,7 +14,7 @@
 	},
 	"icons": {
 		"24": "tab.24.png",
-		"246": "tab.png"
+		"128": "tab.128.png"
 	},
 	"permissions": ["activeTab","tabs"]
 }
